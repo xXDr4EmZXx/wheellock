@@ -49,7 +49,7 @@ Short version:
 3. Add the resource to your `server.cfg`:
 
    ```cfg
-   ensure <resource_name>
+   ensure wheellock
    ```
 4. Restart the server
 
