@@ -73,7 +73,7 @@ Modified versions **may not** be shared or published.
 ## 👤 Author
 
 **xXDr4EmZXx**
-Copyright © 2025
+Copyright © 2026
 All rights reserved.
 
 ---
